@@ -1,0 +1,56 @@
+
+h1{
+   margin: 5px
+	color:blue;
+}
+
+.container{
+
+margin:auto;
+width:50%;
+}
+
+.c3{
+     color: white;
+     letter-spacing: 0.2em;
+
+	background-color: black;
+}
+
+.c1{
+	background-color: blue;
+	color: white;
+}
+.c2{
+	background-color: red;
+	color: black;
+	
+
+}
+
+.container1{
+	
+	width: 50%;
+	margin: auto;
+	display:block;
+	padding-bottom:0.3em;
+	border:10px;
+	background-color:yellow;
+	}
+    
+.container1 label{
+	display: block;
+
+}
+	.container1 input
+	{
+		padding:5px;
+		width:50%;
+	}
+.button{
+	background-color:black;
+	color:red;
+}
+	.button:hover{
+		color:blue;
+	}
